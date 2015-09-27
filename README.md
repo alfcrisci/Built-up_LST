@@ -1,24 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--This file was converted to xhtml by LibreOffice - see http://cgit.freedesktop.org/libreoffice/core/tree/filter/source/xslt for the code.--><head profile="http://dublincore.org/documents/dcmi-terms/"><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title xml:lang="en-US">- no title specified</title><meta name="DCTERMS.title" content="" xml:lang="en-US"/><meta name="DCTERMS.language" content="en-US" scheme="DCTERMS.RFC4646"/><meta name="DCTERMS.source" content="http://xml.openoffice.org/odf2xhtml"/><meta name="DCTERMS.creator" content="Marco"/><meta name="DCTERMS.issued" content="2015-09-27T10:14:00" scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.contributor" content="Marco"/><meta name="DCTERMS.modified" content="2015-09-27T10:18:00" scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.provenance" content="" xml:lang="en-US"/><meta name="DCTERMS.subject" content="," xml:lang="en-US"/><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" hreflang="en"/><link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" hreflang="en"/><link rel="schema.DCTYPE" href="http://purl.org/dc/dcmitype/" hreflang="en"/><link rel="schema.DCAM" href="http://purl.org/dc/dcam/" hreflang="en"/><style type="text/css">
-	@page {  }
-	table { border-collapse:collapse; border-spacing:0; empty-cells:show }
-	td, th { vertical-align:top; font-size:12pt;}
-	h1, h2, h3, h4, h5, h6 { clear:both }
-	ol, ul { margin:0; padding:0;}
-	li { list-style: none; margin:0; padding:0;}
-	<!-- "li span.odfLiEnd" - IE 7 issue-->
-	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
-	span.footnodeNumber { padding-right:1em; }
-	span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
-	* { margin:0;}
-	.P1 { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; text-align:justify ! important; font-family:Times New Roman; writing-mode:lr-tb; }
-	.P2 { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; text-align:justify ! important; font-family:Times New Roman; writing-mode:lr-tb; font-weight:bold; }
-	.P3 { font-size:24pt; font-weight:bold; line-height:100%; margin-bottom:0.494cm; margin-top:0.494cm; text-align:center ! important; font-family:Times New Roman; writing-mode:lr-tb; }
-	.Standard { font-size:12pt; line-height:100%; margin-bottom:0cm; margin-top:0cm; font-family:Times New Roman; writing-mode:lr-tb; text-align:left ! important; }
-	.T2 { vertical-align:super; font-size:58%;}
-	.T3 { vertical-align:super; font-size:58%;}
-	.T4 { vertical-align:super; font-size:58%;}
-	.T5 { vertical-align:super; font-size:58%;}
-	<!-- ODF styles with no properties representable as CSS -->
-	.T1 .T6 .T7 .T8  { }
-	</style></head><body dir="ltr" style="max-width:21.001cm;margin-top:2.499cm; margin-bottom:2cm; margin-left:2cm; margin-right:2cm; writing-mode:lr-tb; "><h1 class="P3"><a id="a__The_impact_of_built-up_surfaces_on_land_surface_temperatures_in_Italian_urban_areas"><span/></a>The impact of built-up surfaces on land surface temperatures in Italian urban areas</h1><p class="P1"><span class="T1">Marco Morabito</span><span class="T3">1,2*</span><span class="T1">, Alfonso Crisci</span><span class="T3">1</span><span class="T1">, Alessandro Messeri</span><span class="T3">2,3</span><a id="_GoBack"/><span class="T1">, Simone Orlandini</span><span class="T3">2,3</span><span class="T1">, Antonio Raschi</span><span class="T3">1</span><span class="T1">, Giampiero Maracchi</span><span class="T3">4</span><span class="T1">, Michele Munafò</span><span class="T3">5</span></p><p class="P2"> </p><p class="Standard"><span class="T2">1 </span><span class="T6">Institute of Biometeorology, National Research Council, Florence, Italy.</span></p><p class="Standard"><span class="T4">2 </span><span class="T6">Interdepartmental Centre of Bioclimatology, University of Florence, </span><span class="T7">Florence, Italy.</span></p><p class="Standard"><span class="T2">3 </span><span class="T6">Department of Agrifood Production and Environmental Sciences, University of Florence, </span><span class="T7">Florence, Italy.</span></p><p class="Standard"><span class="T5">4 </span><span class="T8">Accademia dei Georgofili, Florence, Italy</span></p><p class="P1"><span class="T5">5</span><span class="T8"> Italian National Institute for Environmental Protection and Research, Rome, Italy.</span></p><p class="Standard"> </p><p class="Standard">Abstract</p><p class="Standard">Urban areas are characterized by the very high degree of soil sealing and continuous built-up areas: Italy is the fifth European country with the highest artificial land cover rate, which causes a substantial spatial variation in the land surface temperature (LST), modifying the urban microclimate and contributing to the urban heat island effect. Nevertheless, quantitative data regarding the contribution of different densities of built-up surfaces in determining urban spatial LST changes is currently lacking in Italy. This study, which aimed to provide synthetic and quantitative city-specific information on annual and seasonal spatial LST modifications resulting from increased urban built-up coverage, was conducted generally throughout the whole year, and specifically in two different periods (cool/cold and warm/hot periods). Four cities (Milan, Rome, Bologna and Florence) were included in the study. The LST layer and the built-up-surface indicator were obtained via use of MODIS remote sensing data products (1 km) and the very high-resolution cartography (5 m) of built-up surfaces recently developed by the Italian National Institute for Environmental Protection and Research. The relationships between the dependent (mean daily, daytime and nighttime LST values) and independent (built-up surfaces) variables were investigated through linear regression analyses, and comprehensive built-up-surface-related LST maps were also developed. Statistically significant linear relationships (p&lt;0.001) between built-up surfaces and spatial LST variations were observed in all the cities studied, with a higher impact during the warm/hot period than in the cool/cold ones. Daytime and nighttime LST slope patterns depend on the city size and relative urban morphology. If implemented in the existing city plan, the urban maps of built-up-surface-related LST developed in this study might be able to support more sustainable urban land management practices by identifying the critical areas (Hot-Spots) that would benefit most from mitigation actions by local authorities, land-use decision makers, and urban planners.</p><p class="Standard"> </p></body></html>
+
+The impact of built-up surfaces on land surface temperatures in Italian urban areas
+===================================================================================
+
+**Marco Morabito** 1,2 , *Alfonso Crisci* 1, Alessandro Messeri 2,3, Simone
+Orlandini 2,3, Antonio Raschi1, Giampiero Maracchi 4, Michele Munafò 5
+
+ 
+
+1 Institute of Biometeorology, National Research Council, Florence,
+Italy.
+
+2 Interdepartmental Centre of Bioclimatology, University of Florence,
+Florence, Italy.
+
+3 Department of Agrifood Production and Environmental Sciences,
+University of Florence, Florence, Italy.
+
+4 Accademia dei Georgofili, Florence, Italy
+
+5 Italian National Institute for Environmental Protection and Research,
+Rome, Italy.
+
+ 
+
+Abstract
+
+Urban areas are characterized by the very high degree of soil sealing
+and continuous built-up areas: Italy is the fifth European country with
+the highest artificial land cover rate, which causes a substantial
+spatial variation in the land surface temperature (LST), modifying the
+urban microclimate and contributing to the urban heat island effect.
+Nevertheless, quantitative data regarding the contribution of different
+densities of built-up surfaces in determining urban spatial LST changes
+is currently lacking in Italy. This study, which aimed to provide
+synthetic and quantitative city-specific information on annual and
+seasonal spatial LST modifications resulting from increased urban
+built-up coverage, was conducted generally throughout the whole year,
+and specifically in two different periods (cool/cold and warm/hot
+periods). Four cities (Milan, Rome, Bologna and Florence) were included
+in the study. The LST layer and the built-up-surface indicator were
+obtained via use of MODIS remote sensing data products (1 km) and the
+very high-resolution cartography (5 m) of built-up surfaces recently
+developed by the Italian National Institute for Environmental Protection
+and Research. The relationships between the dependent (mean daily,
+daytime and nighttime LST values) and independent (built-up surfaces)
+variables were investigated through linear regression analyses, and
+comprehensive built-up-surface-related LST maps were also developed.
+Statistically significant linear relationships (p under 0.001) between
+built-up surfaces and spatial LST variations were observed in all the
+cities studied, with a higher impact during the warm/hot period than in
+the cool/cold ones. Daytime and nighttime LST slope patterns depend on
+the city size and relative urban morphology. If implemented in the
+existing city plan, the urban maps of built-up-surface-related LST
+developed in this study might be able to support more sustainable urban
+land management practices by identifying the critical areas (Hot-Spots)
+that would benefit most from mitigation actions by local authorities,
+land-use decision makers, and urban planners.
